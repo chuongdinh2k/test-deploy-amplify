@@ -23,6 +23,7 @@ function App() {
         </button>
         <p>
           <p>test auto deploy commit</p>
+          <p>commit to test ci github actions</p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
