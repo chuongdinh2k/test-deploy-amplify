@@ -22,6 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
+          <p>test auto deploy commit</p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
